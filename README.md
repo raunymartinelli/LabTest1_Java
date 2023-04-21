@@ -6,3 +6,5 @@ After the ratings have been entered, the program calculates and prints the avera
 The program uses a class called MyArrays, which has a single method called printAverageReviewerRating. This method takes in the 2D array of ratings, the number of reviewers, and the number of movies, and it prints out the average rating for each reviewer.
 
 The program uses comments to explain what each part of the code does. It also follows good coding practices such as using descriptive variable names and creating separate methods for different functionality.
+
+Java: Import class into IDEA Intellij and run main function.
